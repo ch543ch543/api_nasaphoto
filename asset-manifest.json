@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/api_nasaphoto/static/css/main.92abd8bb.chunk.css",
-    "main.js": "/api_nasaphoto/static/js/main.8f329864.chunk.js",
-    "main.js.map": "/api_nasaphoto/static/js/main.8f329864.chunk.js.map",
+    "main.js": "/api_nasaphoto/static/js/main.925e6825.chunk.js",
+    "main.js.map": "/api_nasaphoto/static/js/main.925e6825.chunk.js.map",
     "runtime-main.js": "/api_nasaphoto/static/js/runtime-main.492be63d.js",
     "runtime-main.js.map": "/api_nasaphoto/static/js/runtime-main.492be63d.js.map",
     "static/js/2.67e49535.chunk.js": "/api_nasaphoto/static/js/2.67e49535.chunk.js",
     "static/js/2.67e49535.chunk.js.map": "/api_nasaphoto/static/js/2.67e49535.chunk.js.map",
     "index.html": "/api_nasaphoto/index.html",
-    "precache-manifest.beba1551274e81693169ade6b69d1cea.js": "/api_nasaphoto/precache-manifest.beba1551274e81693169ade6b69d1cea.js",
+    "precache-manifest.1e246237720b29e043d245790a0f58d3.js": "/api_nasaphoto/precache-manifest.1e246237720b29e043d245790a0f58d3.js",
     "service-worker.js": "/api_nasaphoto/service-worker.js",
     "static/css/main.92abd8bb.chunk.css.map": "/api_nasaphoto/static/css/main.92abd8bb.chunk.css.map",
     "static/js/2.67e49535.chunk.js.LICENSE.txt": "/api_nasaphoto/static/js/2.67e49535.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.492be63d.js",
     "static/js/2.67e49535.chunk.js",
     "static/css/main.92abd8bb.chunk.css",
-    "static/js/main.8f329864.chunk.js"
+    "static/js/main.925e6825.chunk.js"
   ]
 }
