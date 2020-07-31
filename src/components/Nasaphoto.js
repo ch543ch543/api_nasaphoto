@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Navbar from './Navbar';
 
 const apiKey = process.env.REACT_APP_NASA_KEY;
-
+console.log(process.env.PUBLIC_URL);
 
 const Nasaphoto = () => {
     const [photoData, setPhotoData] = useState(null);
